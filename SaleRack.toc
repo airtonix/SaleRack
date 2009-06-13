@@ -1,0 +1,10 @@
+## Interface: 30000
+## Title: SaleRack
+## Version: 1.0
+## Author: steino
+## Notes: Cause the name was short.
+## SavedVariables: SaleRackDB
+## OptionalDeps: Dongle
+
+Dongle.lua
+gear.lua
